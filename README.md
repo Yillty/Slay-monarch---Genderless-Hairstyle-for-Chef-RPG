@@ -3,7 +3,7 @@
 # Description
 As the name implies, this mod removes the association between gender and hairstyles.
 The mod patches the methods responsible for hairstyles selection, in a way that both genders have access to all the hairstyles in-game. After that I just adjusted the methods around this change so the game can recognize the new styles. 
-The source code of this mod is also available on 
+
 ## Perfomance 
 It shouldn't affect performance in a big way, but I did encounter some lag in the earlier versions of it - caused by, mainly, by the random npc generation - but I believe I fixed the cause of it. If you feel any drop in frame rate don't hesitate to post here and I'll look into it. 
 ## *AI Usage Disclaimer*
