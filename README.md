@@ -5,7 +5,7 @@ As the name implies, this mod removes the association between gender and hairsty
 The mod patches the methods responsible for hairstyles selection, in a way that both genders have access to all the hairstyles in-game. After that I just adjusted the methods around this change so the game can recognize the new styles. 
 
 ## Performance 
-It shouldn't affect performance in a big way, but I did encounter some lag in the earlier versions of it - caused by, mainly, by the random npc generation - but I believe I fixed the cause of it. If you feel any drop in frame rate don't hesitate to post here and I'll look into it. 
+It shouldn't affect performance in a big way, but I did encounter some lag in the earlier versions of it - caused by, mainly, the random npc generation - but I believe I fixed the cause of it. If you feel any drop in frame rate don't hesitate to post here and I'll look into it. 
 ## *AI Usage Disclaimer*
 This is my second mod ever - you may know me from the Dialogue Expansion Mod - so I still consulted LLMs for debugging and to clarify some doubts I had about Harmony and C#. But overall, I tried to make the mod myself any time I could.  
 # Install
